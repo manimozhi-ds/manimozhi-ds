@@ -3,7 +3,7 @@
 
 - 📕currently pursuing **Masters in data science**
 
-- 💻currently learning **Deep learning and UI/UX**
+- 💻currently learning **Deep learning**
 
 - 💬 ask me about **data science, AI/ML and statistics**
 
