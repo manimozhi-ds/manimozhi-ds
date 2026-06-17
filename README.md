@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hola! I'm Manimozhi Sekar 👋
+# Hola! *I'm Manimozhi Sekar.*
 
 ### Data Scientist | Data Engineer | AI/ML Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=650&lines=Data+Scientist;Data+Engineer;AI%2FML+Engineer" />
 
 </div>
 
@@ -15,33 +13,30 @@
 ```python
 manimozhi = {
 
-    "education": "M.Sc. Data Science Graduate",
+    "education": "🎓 B.Sc. Mathematics & M.Sc. Data Science Graduate",
 
-    "experience": [
-        "Former Project Trainee at VSSC, ISRO"
-    ],
+    "experience": "Former Project Trainee at VSSC, ISRO",
 
     "interests": [
         "Artificial Intelligence",
         "Machine Learning",
         "Data Engineering",
         "Data Analytics",
-        "Scientific Computing",
-        "Space Analytics"
+        "Generative AI & LLMs"
     ],
 
     "i_love_to": [
-        "Build AI-powered applications",
-        "Analyze complex datasets",
-        "Create interactive dashboards",
-        "Learn emerging technologies"
+        "Solve problems with data",
+        "Build impactful AI solutions",
+        "Transform data into meaningful insights",
+        "Continuously learn and create"
     ],
 
     "hobbies": [
         "Reading",
         "Music",
         "Journaling",
-        "Exploring new technologies"
+        "Playing Chess"
     ]
 }
 ```
@@ -54,6 +49,7 @@ manimozhi = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🤖 AI / ML
@@ -63,19 +59,20 @@ manimozhi = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 📊 Data Science
+### 📊 Libraries
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -83,16 +80,16 @@ manimozhi = {
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| Venus Plasma Analysis | Multi-mission analysis of Venus plasma environment | Python, Scientific Computing |
-| NexusIQ | AI-powered customer intelligence platform | Python, ML, NLP |
-| QuantVision AI | AI market intelligence dashboard | TensorFlow, Streamlit |
-| CardioFusionXAI | ECG + Clinical text classification | PyTorch, Transformers |
+| Venus Plasma Analysis | Multi-mission analysis of Venus plasma environment | Python, Scientific Computing, Data Visualization, MATLAB |
+| NexusIQ | AI-powered customer intelligence platform | Python, ML, NLP, Streamlit |
+| QuantVision AI | AI market intelligence dashboard | TensorFlow, Streamlit, Backtesting, Python, NLP |
+| CardioFusionXAI | ECG + Clinical text classification | PyTorch, Transformers, BioBERT, Deep Learning |
 
 ---
 
 ## 💭 Motto
 
-> *Turning data into insights and ideas into intelligent solutions.*
+> *In a world driven by data, the ability to understand, harness, and apply it wisely is key to solving meaningful real-world problems.*
 
 ---
 
