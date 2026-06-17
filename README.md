@@ -97,15 +97,15 @@ manimozhi = {
 
 <div align="center">
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:manimozhi254@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/manimozhis2705">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/manimozhi-ds">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
