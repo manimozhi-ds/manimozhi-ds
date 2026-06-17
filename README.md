@@ -2,7 +2,7 @@
 
 # Hola! *I'm Manimozhi Sekar.*
 
-### Data Scientist | Data Engineer | AI/ML Engineer
+### Data Science | Data Engineering | AI/ML Engineering
 
 </div>
 
