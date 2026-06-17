@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hola! I'm *Manimozhi Sekar* 👋
+# Hola! I'm Manimozhi Sekar 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Data+Engineer;AI%2FML+Engineer" />
+### Data Scientist | Data Engineer | AI/ML Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=650&lines=Data+Scientist;Data+Engineer;AI%2FML+Engineer" />
 
 </div>
 
